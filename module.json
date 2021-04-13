@@ -1,0 +1,25 @@
+{   
+   "name": "Creature Loot",   
+   "title": "Anne Gregersen's Creature Loot",   
+   "description": "Anne Gregersen's Creature Loot",   
+   "author": "Wyn",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion":"0.5.5",
+   "packs": [
+ {
+      "name": "Monster Manual - Journal",
+      "label": "Monster Manual - Journal",
+      "path": "packs/monster-manual-journal-entries.db",
+      "entity": "JournalEntry",
+      "module": "Creature Loot"
+    },
+ {
+      "name": "Monster Manual - Items",
+      "label": "Monster Manual - Items",
+      "path": "packs/monster-manual-items.db",
+      "entity": "Item",
+      "module": "Creature Loot"
+    }
+  ]
+ }
