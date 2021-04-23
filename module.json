@@ -16,14 +16,14 @@
       "entity": "JournalEntry",
       "module": "Creature Loot"
     },
-	{
+    {
       "name": "Mordenkainens Tome of Foes - Items",
       "label": "Mordenkainens Tome of Foes - Items",
       "path": "packs/mordenkainens-tome-of-foes-items.db",
       "entity": "Item",
       "module": "Creature Loot"
     },
-		{
+    {
       "name": "Volos Guide to Monsters - Items",
       "label": "Volos Guide to Monsters - Items",
       "path": "packs/volos-guide-to-monsters-items.db",
