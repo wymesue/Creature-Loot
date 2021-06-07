@@ -23,34 +23,132 @@
       "entity": "Item",
       "module": "Creature Loot"
     },
-		{
+	{
       "name": "Dragon Heist - Items",
       "label": "Dragon Heist - Items",
       "path": "packs/dragon-heist-items.db",
       "entity": "Item",
       "module": "Creature Loot"
     },
-		{
+	{
       "name": "Curse of Strahd - Items",
       "label": "Curse of Strahd - Items",
       "path": "packs/curse-of-strahd.db",
       "entity": "Item",
       "module": "Creature Loot"
     },
-		{
+	{
       "name": "Volos Guide to Monsters - Items",
       "label": "Volos Guide to Monsters - Items",
       "path": "packs/volos-guide-to-monsters-items.db",
       "entity": "Item",
       "module": "Creature Loot"
     },
-		{
+	{
       "name": "Balder's Gate:Descent into Avernus - Items",
       "label": "Balder's Gate:Descent into Avernus",
       "path": "packs/balders-gate-descent-into-avernus.db",
       "entity": "Item",
       "module": "Creature Loot"
     },	
+	{
+      "name": "Tyranny of Dragons - Items",
+      "label": "Tyranny of Dragons - Items",
+      "path": "packs/tyranny-of-dragons.db",
+      "entity": "Item",
+      "module": "Creature Loot"
+    },
+	{
+      "name": "Tomb of Annihilation - Items",
+      "label": "Tomb of Annihilation - Items",
+      "path": "packs/tomb-of-annihilation.db",
+      "entity": "Item",
+      "module": "Creature Loot"
+    },
+	{
+      "name": "Ghosts of Saltmarsh - Items",
+      "label": "Ghosts of Saltmarsh - Items",
+      "path": "packs/ghosts-of-saltmarsh.db",
+      "entity": "Item",
+      "module": "Creature Loot"
+    },
+	{
+      "name": "Mythic Odysseys of Theros - Items",
+      "label": "Mythic Odysseys of Theros - Items",
+      "path": "packs/mythic-odysseys-of-theros.db",
+      "entity": "Item",
+      "module": "Creature Loot"
+    },
+	{
+      "name": "Dragon of Icespire Peak - Items",
+      "label": "Dragon of Icespire Peak - Items",
+      "path": "packs/dragon-of-icespire-peak.db",
+      "entity": "Item",
+      "module": "Creature Loot"
+    },
+	{
+      "name": "Dungeon of the Mad Mage - Items",
+      "label": "Dungeon of the Mad Mage - Items",
+      "path": "packs/dungeon-of-the-mad-mage.db",
+      "entity": "Item",
+      "module": "Creature Loot"
+    },
+	{
+      "name": "Eberron Rising from the Last War - Items",
+      "label": "Eberron Rising from the Last War - Items",
+      "path": "packs/eberron-rising-from-the-last-war.db",
+      "entity": "Item",
+      "module": "Creature Loot"
+    },
+	{
+      "name": "Guildmasters Guide to Ravnica - Items",
+      "label": "Guildmasters Guide to Ravnica - Items",
+      "path": "packs/guildmasters-guide-to-ravnica.db",
+      "entity": "Item",
+      "module": "Creature Loot"
+    },
+	{
+      "name": "Icewind Dale Rime of the Frostmaiden - Items",
+      "label": "Icewind Dale Rime of the Frostmaiden - Items",
+      "path": "packs/icewind-dale-rime-of-the-frostmaiden.db",
+      "entity": "Item",
+      "module": "Creature Loot"
+    },
+	{
+      "name": "Out of the Abyss - Items",
+      "label": "Out of the Abyss - Items",
+      "path": "packs/out-of-the-abyss.db",
+      "entity": "Item",
+      "module": "Creature Loot"
+    },
+	{
+      "name": "Storm King's Thunder - Items",
+      "label": "Storm King's Thunder - Items",
+      "path": "packs/storm-kings-thunder.db",
+      "entity": "Item",
+      "module": "Creature Loot"
+    },
+	{
+      "name": "Tales from the Yawning Portal - Items",
+      "label": "Tales from the Yawning Portal - Items",
+      "path": "packs/tales-from-the-yawning-portal.db",
+      "entity": "Item",
+      "module": "Creature Loot"
+    },
+	{
+      "name": "Lost Mines of Phandelver - Items",
+      "label": "Lost Mines of Phandelver - Items",
+      "path": "packs/lost-mines-of-phandelver.db",
+      "entity": "Item",
+      "module": "Creature Loot"
+    },
+	{
+      "name": "Princes of the Apocolypse - Items",
+      "label": "Princes of the Apocolypse - Items",
+      "path": "packs/princes-of-the-apocalypse.db",
+      "entity": "Item",
+      "module": "Creature Loot"
+    },
     {
       "name": "Monster Manual - Items",
       "label": "Monster Manual - Items",
