@@ -3,7 +3,7 @@
    "title": "Anne Gregersen's Creature Loot",
    "description": "Anne Gregersen's Creature Loot",
    "author": "Wyn",
-   "version": "1.0.6",
+   "version": "1.0.7",
    "minimumCoreVersion": "0.5.0",
    "compatibleCoreVersion":"0.7.9",
    "manifest": "https://raw.githubusercontent.com/wymesue/Creature-Loot/main/module.json",
