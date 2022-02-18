@@ -142,30 +142,35 @@
       "entity": "Item",
       "module": "Creature Loot"
     },
+	{
 	  "name": "Princes of the Apocolypse - Items",
       "label": "Princes of the Apocolypse - Items",
       "path": "packs/princes-of-the-apocalypse.db",
       "entity": "Item",
       "module": "Creature Loot"
     },
+		{
 	  "name": "Fizbans Treasury of Dragons - Items",
       "label": "Fizbans Treasury of Dragons - Items",
       "path": "packs/fizbans-treasury-of-dragons-items.db",
       "entity": "Item",
       "module": "Creature Loot"
     },
+		{
 	  "name": "Strixhaven a Curriculum of Chaos - Items",
       "label": "Strixhaven a Curriculum of Chaos - Items",
       "path": "packs/strixhaven-a-curriculum-of-chaos-items.db",
       "entity": "Item",
       "module": "Creature Loot"
     },
+		{
 	  "name": "The Wild Beyond the Witchlight - Items",
       "label": "The Wild Beyond the Witchlight - Items",
       "path": "packs/the-wild-beyond-the-witchlight-items.db",
       "entity": "Item",
       "module": "Creature Loot"
     },
+		{
 	  "name": "Van Richtens Guide to Ravenloft - Items",
       "label": "Van Richtens Guide to Ravenloft - Items",
       "path": "packs/van-richtens-guide-to-ravenloft-items.db",
